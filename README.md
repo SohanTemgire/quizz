@@ -1,1 +1,4 @@
-# quizz
+# Online quiz application
+The project: “Quiz Application” is a collection of number of different types of quizzes like technical, games, sports, etc. A user can access/play all of the quiz and can attempt any of the one. There will be limited number of questions and for each correct answer user will get a credit score.
+#Technologies Used
+Java
